@@ -1,0 +1,3 @@
+CREATE TABLE "FEATURE_4"
+   (	"NAME" VARCHAR2(20)
+   ) ;
